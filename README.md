@@ -1,3 +1,4 @@
+# Code will be released when this article is published
 # Forest Fire Prevention and Control Research Based on UAV Aerial Images
 
 This repository aims to develop an open source toolkit and algorithm for early detection of forest fires using UAV aerial images and a lightweight segmentation network (FS-DeeplabV3+). Our project includes data preprocessing, model training, evaluation, as well as fire spread prediction and firebreak planning algorithms.
